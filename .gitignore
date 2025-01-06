@@ -1,5 +1,8 @@
 Readme.md
+.gitignore
 *.env
 .vscode
 *.exe
 .git
+Output
+*.js
